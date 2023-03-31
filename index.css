@@ -1,9 +1,10 @@
 
-* {
+body {
     box-sizing:border-box;
     margin: 0;
     padding: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Helvetica, sans-serif;
+    background-image: url(5026563.jpg);
 }
 
 nav {
@@ -81,11 +82,7 @@ h2 {
     margin-inline-end: 0px;
 }
 
-.hero{
-    background-image: url(5026563.jpg);
-    background-size:contain;
-    padding-bottom: 100%;
-}
+
 
 .hero-container{
     display:contents;
@@ -100,10 +97,11 @@ h2 {
 }
 
 .column-left{
+    padding-top: 20px;
+    align-items: center;
     display:flex;
     flex-direction: column;
     justify-content: center;
-    align-items: flex-start;
     color:#000;
 }
 
