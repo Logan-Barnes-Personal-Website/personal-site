@@ -25,18 +25,66 @@ nav {
 
 nav a{
     text-decoration: none;
-color:#000;
-padding: 0 1.5rem;
+    color:#000;
+    padding: 0 1.5rem;
 }
 
 nav a:hover{
     color: #fff;
 }
 
+h2 {
+    padding-top: 1%;
+}
+
+.about {
+    font-weight: 300;
+    font-size: 2rem;
+    font-family: 'Raleway', sans-serif;
+    box-sizing: border-box;
+
+}
+
+.golf-img{
+    height: 128px;
+}
+
+.sleep-img{
+    height: 128px;
+}
+
+.read-img{
+    height: 128px;
+}
+
+.about-golf{
+    display:contents;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.about-sleep{
+    display:contents;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.about-read{
+    display:contents;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
 .hero{
-    display: center;
-    margin: 0;
-    padding: 0;
+    background-image: url(5026563.jpg);
+    background-size:contain;
+    padding-bottom: 100%;
 }
 
 .hero-container{
@@ -46,13 +94,17 @@ nav a:hover{
     height: 95vh;
 }
 
+.quote-center{
+    padding-top: 15%;
+    padding-left: 15%;
+}
+
 .column-left{
     display:flex;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
     color:#000;
-    padding: 0rem 2rem;
 }
 
 .column-left h1{
@@ -65,9 +117,23 @@ nav a:hover{
     font-size: 1rem;
 }
 
-.image{
-    background-size: cover;
+#projectbody{
+    text-align: center;
+    padding-top: 5%;
 }
+
+.proj1{
+    height: 128px;
+}
+
+.proj2{
+    height: 128px;
+}
+
+.proj3{
+    height: 128px;
+}
+
 
 
 
