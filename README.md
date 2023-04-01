@@ -1,13 +1,13 @@
-### personal-site
-creating a portfolio website
-create home-html file
-create about-html file
-create portfolio-html file
-add images to VS code file
-write JS script
-link JS script
-link CSS to HTML files
-Adjust fonts and scaling
-merge branches to main
+### personal-site <br />
+creating a portfolio website <br />
+create home-html file <br />
+create about-html file <br />
+create portfolio-html file <br />
+add images to VS code file <br />
+write JS script <br />
+link JS script <br />
+link CSS to HTML files <br />
+Adjust fonts and scaling <br />
+merge branches to main <br />
 
 
